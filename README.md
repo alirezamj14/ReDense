@@ -1,9 +1,8 @@
-# SSFN
+# ReDense
 
 All the materials available in this document are to reproduce the results published in the following paper:
 
->S. Catterjee, A. M. Javid, M. Sadeghi, S. Kikuta, P.P. Mitra, M. Skoglund, 
->"SSFN: Low Complexity Self Size-estimating Feed-forward Neural Network using Layer-wise Convex Optimization", 2019
+A. M. Javid, S. Das, M. Skoglund, and S. Chatterjee, ``A ReLU Dense Layer to Improve the Performance of Neural Networks," submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
 
 SSFN is the method for estimating the architecture of neural network.   
 The code is organized as follows:
